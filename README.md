@@ -62,3 +62,7 @@ Most recent DemoSystem for Linux can be downloaded from [here](https://github.co
 
 #### Wiki
 For more details please visit our [wiki](https://github.com/exxeleron/enterprise-components/wiki).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pawelhudak/enterprise-components/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
