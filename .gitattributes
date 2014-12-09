@@ -1,3 +1,2 @@
 *.sh linguist-language=q
-* linguist-vendored
 *.sh linguist-vendored=false
